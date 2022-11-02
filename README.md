@@ -1,5 +1,17 @@
-## Olá! eu sou Kaio Melo 👨‍🎓
+## Olá! eu sou Kaio Melo 👋
 
+<ul>
+  <li>👨‍🎓 FORMADO</li>
+  <ul>
+    <li>💻 Técnico em informática - Senac RJ</li>
+  </ul>
+  <li>🪫 EM FORMAÇÃO</li>
+  <ul>
+    <li>🔎 Análise e desenvolvimento - Unicarioca</li> 
+    <li>👨‍💻 Desenvolvimento Web full Stack - Programadores Cariocas (Resilia + Senac RJ + Prefeitura do Rio)</li>
+  </ul>
+</ul>  
+<br>
 <div align="center">
   <a href="https://github.com/KaioMelo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaioMelo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
