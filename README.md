@@ -4,11 +4,11 @@
   <li>👨‍🎓 FORMADO</li>
   <ul>
     <li>💻 Técnico em informática - Senac RJ</li>
+    <li>👨‍💻 Desenvolvimento Web full Stack - Programadores Cariocas (Resilia + Senac RJ + Prefeitura do Rio)</li>
   </ul>
   <li>🪫 EM FORMAÇÃO</li>
   <ul>
-    <li>🔎 Análise e desenvolvimento - Unicarioca</li> 
-    <li>👨‍💻 Desenvolvimento Web full Stack - Programadores Cariocas (Resilia + Senac RJ + Prefeitura do Rio)</li>
+    <li>🔎 Análise e desenvolvimento - Unicarioca</li>
   </ul>
 </ul>  
 <br>
