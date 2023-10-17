@@ -1,5 +1,7 @@
 ## Olá! eu sou Kaio Melo 👋
 
+### Desenvolvedor Back-End
+
 <ul>
   <li>👨‍🎓 FORMADO</li>
   <ul>
@@ -10,6 +12,8 @@
   <ul>
     <li>🔎 Análise e desenvolvimento - Unicarioca</li>
   </ul>
+  <li>📚 ESTUDOS</li>
+  <li>Linguagem: JAVA e JAVASCRIPT </li>
 </ul>  
 <br>
 <div align="center">
