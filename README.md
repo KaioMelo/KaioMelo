@@ -2,52 +2,22 @@
 
 Me chamo **Kaio Melo** gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 
-## Mais sobre mim
-
-<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KaioMelo&bg_color=transparent&color=bcc3fb&line=4c5a9e&point=007cdb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=KaioMelo&show_icons=true&count_private=true&hide_border=true&title_color=4169E1&icon_color=4169E1&text_color=c9d1d9&bg_color=0d1117" alt="Kaio Melo GitHub" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaioMelo&layout=compact&hide_border=true&title_color=4169E1&text_color=fff&bg_color=0d1117" />
+</div>
 
 <h3>Sobre mim</h3>
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Formado em **TÉCNICO EM TI** no <a href="link da sua faculdade">SENAC RIO</a> e **DESENVOLVEDOR FULLSTACK** na <a href="link da sua faculdade">RESILIA</a>.
+- 🤔 Explorando novas tecnologias e cursando **ANÁLISE E DESENVOLVIMENTO** na <a href="https://www.unisuam.edu.br/">UNISUAM</a>.
+- 🎓 Formado em **TÉCNICO EM TI** no <a href="https://www.rj.senac.br/">SENAC RIO</a> e **DESENVOLVIMENTO FULLSTACK** na <a href="https://www.resilia.com.br/">RESILIA</a>.
 - 💼 Trabalhando como **MILITAR TEMPORÁRIO** na <a href="LINK DA EMPRESA">FORÇA AÉREA BRASILEIRA</a>
 - 🌱 Aprendendo mais sobre **JAVA** e suas técnologias.
 
-## Linguagens e Dados
+<h3>Minhas Habilidades</h3>
 
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"></code>
-
-## Utilidades
-
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg"></code>
-
-## DevOps
-
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"></code>
-
-## Ferramentas de Desenvolvimento
-
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"></code>
-
-## Status
-
-<div>
-  <a href="https://github.com/KaioMelo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaioMelo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaioMelo&layout=compact&langs_count=7&theme=dark"/>
-</div>
+[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,maven,mysql&perline=8)](https://skillicons.dev)
 
 [website]: https://codedev.ga/
 [twitter]: https://twitter.com/SEUTWITTER
