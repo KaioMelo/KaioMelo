@@ -12,12 +12,15 @@ Me chamo **Kaio Melo** gosto de criar ótimos softwares e ajudar outras pessoas 
 
 - 🤔 Explorando novas tecnologias e cursando **ANÁLISE E DESENVOLVIMENTO** na <a href="https://www.unisuam.edu.br/">UNISUAM</a>.
 - 🎓 Formado em **TÉCNICO EM TI** no <a href="https://www.rj.senac.br/">SENAC RIO</a> e **DESENVOLVIMENTO FULLSTACK** na <a href="https://www.resilia.com.br/">RESILIA</a>.
-- 💼 Trabalhando como **MILITAR TEMPORÁRIO** na <a href="LINK DA EMPRESA">FORÇA AÉREA BRASILEIRA</a>
+- 💼 Trabalhando como **Desenvolvedor Java** na <a href="https://fattoria-sifa.com.br/">FATTORIA</a>
 - 🌱 Aprendendo mais sobre **JAVA** e suas técnologias.
 
-<h3>Minhas Habilidades</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,maven,mysql&perline=8)](https://skillicons.dev)
+<h3 align="center">Minhas Habilidades</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,js,jquery,hibernate,maven,mysql,git,docker,kafka,jenkins&perline=8" />
+  </a>
+</p>
 
 [website]: https://codedev.ga/
 [twitter]: https://twitter.com/SEUTWITTER
